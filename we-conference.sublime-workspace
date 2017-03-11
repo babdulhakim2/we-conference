@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"car",
+				"cart"
+			],
+			[
+				"ca",
+				"cart_count"
+			],
+			[
+				"c",
+				"cart_count"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"Ht",
+				"HttpResponseRedirect"
+			],
+			[
+				"sal",
+				"sale_price_active"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"to",
+				"totals"
+			],
+			[
+				"Ca",
+				"CartAdmin"
+			],
+			[
+				"P",
+				"PRICE_CHOICES"
+			],
+			[
+				"form",
+				"forms"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sa",
+				"sale_price"
+			],
+			[
+				"re",
+				"related_name"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"r",
+				"red"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tet",
+				"text-center"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"clas",
+				"class_id"
+			],
+			[
+				"sle",
+				"selected_terms"
+			],
+			[
+				"cla",
+				"class_name"
+			],
+			[
+				"ge",
+				"get_record_count"
+			],
+			[
+				"delet",
+				"delete_id"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"term",
+				"term_id"
+			],
+			[
+				"user",
+				"usertype"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"us",
+				"usertype"
+			],
+			[
+				"Chan",
+				"Changed"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"tui",
+				"tuition_package"
+			],
+			[
+				"un",
+				"unique_id"
+			],
+			[
+				"col",
+				"col-xs-3"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"stud",
+				"student_id"
+			],
+			[
+				"stu",
+				"student_list"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"student",
+				"students"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"stude",
+				"students"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"da",
+				"dashboard"
+			],
+			[
+				"record",
+				"record_count"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"ad",
+				"admission_no"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"subjec",
+				"subject"
+			],
+			[
+				"subje",
+				"subject"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ass",
+				"assessment_array"
+			],
+			[
+				"subjet",
+				"subject_id"
+			],
+			[
+				"reco",
+				"record_count"
+			],
+			[
+				"subject",
+				"subject_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"mysli_fet",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"rec",
+				"record_count"
+			],
+			[
+				"studen",
+				"student_id"
+			],
+			[
+				"sat",
+				"staff_id"
+			],
+			[
+				"staff",
+				"staff_id"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 4462,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 29341,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/we-conference",
+		"/D/dev/we-conference/static",
+		"/D/dev/we-conference/static/js",
+		"/D/dev/we-conference/templates"
+	],
+	"file_history":
+	[
+		"/D/chnk/src/accounts/api/__init__.py",
+		"/D/chnk/src/chiniki/urls.py",
+		"/D/chnk/src/cart/templatetags/get_cart_count.py",
+		"/D/chnk/src/templates/base.html",
+		"/D/chnk/src/app/views.py",
+		"/D/chnk/src/cart/views.py",
+		"/D/chnk/src/templates/products/category_view.html",
+		"/D/chnk/src/templates/products/product_detail.html",
+		"/D/chnk/src/cart/models.py",
+		"/D/chnk/src/templates/form.html",
+		"/D/chnk/src/cart/admin.py",
+		"/D/chnk/src/cart/urls.py",
+		"/D/chnk/src/cart/templatetags/__init__.py",
+		"/D/chnk/src/products/forms.py",
+		"/D/chnk/src/products/models.py",
+		"/D/chnk/src/location/models.py",
+		"/D/chnk/src/chiniki/settings.py",
+		"/D/chnk/src/products/admin.py",
+		"/D/chnk/src/category/admin.py",
+		"/D/chnk/src/templates/snippets/thumbnail_snippets.html",
+		"/D/chnk/src/templates/home/view.html",
+		"/D/chnk/src/products/views.py",
+		"/D/chnk/src/templates/snippets/product_grid_snippet.html",
+		"/D/chnk/src/category/models.py",
+		"/D/chnk/src/products/urls.py",
+		"/D/chnk/src/static/css/category.css",
+		"/D/chnk/src/static/css/product_detail.css",
+		"/D/chnk/src/category/urls.py",
+		"/D/chnk/src/category/views.py",
+		"/D/chnk/src/templates/products/f_product_view.html",
+		"/D/chnk/src/products/api/views.py",
+		"/D/chnk/src/products/api/serializers.py",
+		"/D/chnk/src/products/api/urls.py",
+		"/D/chnk/src/products/api/__init__.py",
+		"/D/chnk/src/static/js/owl-carousel.js",
+		"/D/chnk/src/static/css/custom.css",
+		"/D/chnk/src/products/templatetags/get_tag_name.py",
+		"/D/chnk/src/static/css/reset.css",
+		"/D/chnk/src/static/css/style.css",
+		"/D/chnk/src/static/owl.carousel/assets/css/custom.css",
+		"/D/chnk/src/templates/test.html",
+		"/D/chnk/src/static/product_detail/css/owl.carousel.css",
+		"/D/chnk/src/templates/snippets/home_page_slider.html",
+		"/D/chnk/src/category/templatetags/get_categories.py",
+		"/D/chnk/src/category/templatetags/__init__.py",
+		"/D/chnk/src/products/templatetags/get_product_tag.py",
+		"/D/chnk/src/chiniki/templatetags/get_categories.py",
+		"/D/chnk/src/chiniki/templatetags/__init__.py",
+		"/D/chnk/src/products/templatetags/get_thumbnail.py",
+		"/D/chnk/src/products/templatetags/__init__.py",
+		"/D/chnk/src/analytics/admin.py",
+		"/D/chnk/src/analytics/models.py",
+		"/D/chnk/src/chiniki/mixins.py",
+		"/D/chnk/src/tags/admin.py",
+		"/D/chnk/src/tags/views.py",
+		"/D/chnk/src/tags/models.py",
+		"/D/chnk/src/app/models.py",
+		"/D/chnk/src/location/admin.py",
+		"/D/chnk/src/products/mixins.py",
+		"/C/xampp/htdocs/scholastic-plus/select-student-to-pay.php",
+		"/C/xampp/htdocs/scholastic-plus/select-package.php",
+		"/C/xampp/htdocs/scholastic-plus/404.php",
+		"/C/xampp/htdocs/scholastic-plus/paid-receipt.php",
+		"/C/xampp/htdocs/scholastic-plus/includes/parents/init.php",
+		"/C/xampp/htdocs/scholastic-plus/includes/parents/header.html",
+		"/C/xampp/htdocs/scholastic-plus/includes/parents/tablehead.html",
+		"/C/xampp/htdocs/scholastic-plus/student_payment_history.php",
+		"/C/xampp/htdocs/scholastic-plus/parent_student_records.php",
+		"/C/xampp/htdocs/scholastic-plus/unpaidtuition.php",
+		"/C/xampp/htdocs/scholastic-plus/unpaid-tuition.php",
+		"/C/xampp/htdocs/scholastic-plus/payment-receipt.php",
+		"/C/xampp/htdocs/scholastic-plus/parent-area.php",
+		"/C/xampp/htdocs/scholastic-plus/outstanding-details.php",
+		"/C/xampp/htdocs/scholastic-plus/tablehead.html",
+		"/C/xampp/htdocs/scholastic-plus/select-payment-package.php",
+		"/C/xampp/htdocs/scholastic-plus/viewassessments.php",
+		"/C/xampp/htdocs/scholastic-plus/includes/parents/indexbase.html",
+		"/C/xampp/htdocs/scholastic-plus/today_entries.php",
+		"/C/xampp/htdocs/scholastic-plus/packagedetails.php",
+		"/C/xampp/htdocs/scholastic-plus/package-details.php",
+		"/C/xampp/htdocs/scholastic-plus/tuition-packages.php",
+		"/C/xampp/htdocs/scholastic-plus/accounting.php",
+		"/C/xampp/htdocs/scholastic-plus/payment-receipt-details.php",
+		"/C/xampp/htdocs/scholastic-plus/editstudent.php",
+		"/C/xampp/htdocs/scholastic-plus/viewterms.php",
+		"/C/xampp/htdocs/scholastic-plus/term_average.php",
+		"/C/xampp/htdocs/scholastic-plus/result_awarded.php",
+		"/C/xampp/htdocs/scholastic-plus/resultawarded.php",
+		"/C/xampp/htdocs/scholastic-plus/position.php",
+		"/C/xampp/htdocs/scholastic-plus/manage-positon.php",
+		"/D/datasets/breast-cancer-wisconsin.data.txt",
+		"/C/xampp/htdocs/scholastic-plus/current-outstanding.php",
+		"/C/xampp/htdocs/scholastic-plus/index.php",
+		"/C/xampp/htdocs/scholastic-plus/assessment-count.php",
+		"/C/xampp/htdocs/scholastic-plus/subjects.php",
+		"/C/xampp/htdocs/scholastic-plus/classmanger.php",
+		"/C/xampp/htdocs/scholastic-plus/init.php",
+		"/C/xampp/htdocs/scholastic-plus/class.php",
+		"/C/xampp/htdocs/scholastic-plus/tuition.php",
+		"/C/xampp/htdocs/scholastic-plus/staffdetails.php",
+		"/C/xampp/htdocs/scholastic-plus/studentdetails.php",
+		"/C/xampp/htdocs/scholastic-plus/classcat.php",
+		"/C/xampp/htdocs/scholastic-plus/assessment-details.php",
+		"/C/xampp/htdocs/scholastic-plus/view-ass-count.php",
+		"/C/xampp/htdocs/scholastic-plus/allocatesubject.php",
+		"/C/xampp/htdocs/scholastic-plus/indexbase.html",
+		"/C/xampp/htdocs/scholastic-plus/profile.php",
+		"/C/xampp/htdocs/scholastic-plus/base.html",
+		"/C/xampp/htdocs/scholastic-plus/check.php",
+		"/C/xampp/htdocs/scholastic-plus/addstaffasuser.php",
+		"/C/xampp/htdocs/scholastic-plus/changeusername.php",
+		"/C/xampp/htdocs/scholastic-plus/change-username.php",
+		"/C/xampp/htdocs/scholastic-plus/make-payment.php",
+		"/C/xampp/htdocs/scholastic-plus/paynow.php",
+		"/C/xampp/htdocs/scholastic-plus/makepayment.php",
+		"/C/xampp/htdocs/scholastic-plus/viewstudent.php",
+		"/C/xampp/htdocs/scholastic-plus/css/custom.css",
+		"/C/xampp/htdocs/scholastic-plus/pay-now.php",
+		"/C/xampp/htdocs/scholastic-plus/changepassword.php",
+		"/C/xampp/htdocs/scholastic-plus/paid-tuition.php",
+		"/C/xampp/htdocs/scholastic-plus/paidtuition.php",
+		"/C/xampp/htdocs/scholastic-plus/today-entries.php",
+		"/C/xampp/htdocs/scholastic-plus/current-term-outstanding.php",
+		"/C/xampp/htdocs/scholastic-plus/outstanding.php",
+		"/C/xampp/htdocs/scholastic-plus/out-standing.php",
+		"/C/xampp/htdocs/scholastic-plus/today_enties.php",
+		"/C/xampp/htdocs/scholastic-plus/basereg.html",
+		"/C/xampp/htdocs/scholastic-plus/indexbasereg.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@",
+			"CategoryImage",
+			"Category",
+			"Product",
+			"cart",
+			"/>\n",
+			">\n",
+			"seller-info",
+			"collection-sort",
+			"/*",
+			"collection-sort",
+			"social-links",
+			"FullDesc",
+			"tab-btn-2",
+			"tab-nav-1",
+			"40",
+			"tab-btn-2",
+			"tab-nav-1",
+			"tab-btn-1",
+			"tab-slide-1",
+			"AddToCart",
+			"BuyItNow",
+			"detail-socials",
+			"social-sharing-btn-wrapper",
+			"social-sharing",
+			"detail-socials",
+			"price-preview",
+			"AddToCart",
+			"crossed-out",
+			"AddToCartForm",
+			"BuyItNow",
+			"btn-and-quantity",
+			"product-card",
+			"ratings",
+			"product-image",
+			"product-card",
+			"related_products",
+			"%}\n",
+			"product-title",
+			"product-tag",
+			"ratings",
+			"owl-carousel",
+			"thumbnail",
+			"item",
+			"owl-example",
+			"owl-main-container",
+			"ratings",
+			"product-title",
+			"ratings",
+			"thumbnail",
+			"padding",
+			"panel-1",
+			"ratings",
+			"item",
+			"oldprice",
+			"owl-main-container",
+			"thumbnail",
+			"version",
+			"fa",
+			"social-links",
+			"img",
+			"big-image",
+			"left-col",
+			"big",
+			"product-detail",
+			"thumbnail",
+			"blue",
+			"border",
+			"item",
+			"ratings",
+			"owl",
+			"cd-header-buttons",
+			"search-trigger",
+			"#search-trigger",
+			"search-trigger",
+			".cd-search-trigger span",
+			"get_product_tag ",
+			"class_id",
+			"classid",
+			"$student_id",
+			"studentid",
+			"payment",
+			"classid",
+			"student-to-pay",
+			"tuition_id",
+			"pro",
+			"delete en",
+			"delete",
+			"class_position",
+			"term_name",
+			"();\n",
+			"delete",
+			"edit",
+			"<?",
+			"proficiency",
+			"id",
+			"gra",
+			"staff_assessment_count",
+			"mydiv",
+			"id",
+			"tuition_fee_id",
+			"payment_list_count",
+			"main_array_list",
+			"receipt_no",
+			"counter",
+			"report_list_count",
+			"tuition",
+			"index",
+			"Amount",
+			"Amount ",
+			"query",
+			"print",
+			"Status",
+			"term_id",
+			"payment_id",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<",
+			"<?php",
+			"parent_student_records",
+			"row['id']",
+			"parent_student_records"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2484,
+								2484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/js/controllers.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 29341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "we-conference.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\dev\\tweetme\\tweetme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
